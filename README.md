@@ -16,7 +16,7 @@ Ingresaré el nombre de tres amigos: Fernando, Carlos y Javier, los añadiré
 Seguidamente presionaré el botón de sortear amigo y veremos quien será el ganador... 
 
 
-![](./img/ganador.jpg.jpg)
+![](./img/ganador.jpg)
 
 
 ¡¡ Fernando es el ganador del sorteo !! 
